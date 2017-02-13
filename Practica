@@ -1,0 +1,9 @@
+#include<stdio.h>
+int 
+main(){
+printf("Mario Ivan Calero Martinez");
+printf("Easte es mi segundo codigo");
+printf("Programar es facil");
+printf("Voy a compartir con la maestra el codigo");
+return 0;
+}
